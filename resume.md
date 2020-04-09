@@ -6,8 +6,11 @@ This is `sngm45`'s personal page.
 | Account | ID |
 |---------|---|
 | Twitter | [sngm45](https://twitter.com/sngm45) |
+| Scrabox | [simplegitfs-tech](https://scrapbox.io/simplegifts-tech) |
 | GitHub | [sngm45](https://github.com/sngm45) |
 | Gmail | [sng.ngmr@gmail.com](sng.ngmr@gmail.com) |
+
+![sngm45](https://avatars1.githubusercontent.com/u/9214036?s=460&u=16a6ec8263d1de300ec001fc3922806c79bbde00&v=4)
 
 
 ## Job experience
@@ -24,18 +27,22 @@ This is `sngm45`'s personal page.
 ### Programming Language
 - C
   - 10y
-- C++
+- shell/batch
+  - 10y
+- C++/CMake
   - 5y
-  - CMake
   - Google Test Framework
-- Python 2 & 3
+- Python 2/3
   - 5y
 - VBA
   - 5y
-- batch
-  - 10y
-- shell
+- C#/XAML
   - 1y
+- Lua
+  - 1y
+- XML/HTML/CSS/JavaScript
+  - 1y
+
 
 ### Tech Area
 - GUI
@@ -46,6 +53,9 @@ This is `sngm45`'s personal page.
   - AUTOSAR
   - Communication & network
 - Raspberry Pi
+- Software engineering
+  - Configuration Management
+  - Development Environment
 
 
 ### Platform & Tools
@@ -62,24 +72,27 @@ This is `sngm45`'s personal page.
 - Scapy
 - Wireshark
 
+- QGIS
+
 - Git
 - SVN
 - Jenkins
 
+- Scrapbox
 - Markdown
 - PlantUML
-- Scrapbox
+- Boostnote
 
 
 
 ## Job history
 
-### Company E (2014 ~ )
+### Company 'E' (2014 ~ )
 
 #### Car navigation system
 - Requirement Analysis : 1y
 - Software development for GUI : 1y
-- Software development for Core library : 1y
+- Software development for Traffic & digital map : 1y
 
 #### AUTOSAR
 - Software integration for Ethernet and TCP/IP : 3y
@@ -88,13 +101,29 @@ This is `sngm45`'s personal page.
 - Test design & scripting : 2y
 
 
-### Company P (2009 ~ 2014)
+### Company 'P' (2009 ~ 2014)
 
 #### Windows desktop application
-- Team management : 2y
+- Product management & Customer support : 1y
+- Software development : 1y
 
 #### GUI of car navigation system
 - Requirement Analysis : 1y
 - Software development : 4y
 
 
+### School
+
+#### Major on university
+- Electronic engineering
+- VR/AR
+
+
+## Private
+- Home
+  - Saitama, Japan
+- Hobby
+  - DTM
+  - Reading books
+  - Cooking
+  - Play with my children
