@@ -12,20 +12,11 @@ This is `sngm45`'s personal page.
 
 ## Job experience
 - Sofeware Development
-  - GUI of car navigation system
-    - Requirement Analysis : 1y
-    - Software development : 4y
-  - Core library of car navigation system
-    - Software development : 1y
+  - Car navigation system
   - Windows desktop application
-    - Team management : 2y
   - AUTOSAR
-    - Software integration : 3y
-  - Test automation with Python and Jenkins
-    - Test design & scripting : 2y
+  - Test automation
   - Communication stack for Ethernet and TCP/IP
-    - Requirement Analysis : 1y
-    - Software integration : 2y
 
 
 ## Skill
@@ -83,27 +74,21 @@ This is `sngm45`'s personal page.
 
 ## Job history
 
-### Company E
+### Company E (2014 ~ )
 
-#### GUI of car navigation system
+#### Car navigation system
 - Requirement Analysis : 1y
-- Software development : 1y
+- Software development for GUI : 1y
+- Software development for Core library : 1y
 
-#### Core library of car navigation system
-- Software development : 1y
-
-#### AUTOSAR integration
-- Software development : 3y
+#### AUTOSAR
+- Software integration for Ethernet and TCP/IP : 3y
 
 #### Test automation with Python and Jenkins
 - Test design & scripting : 2y
 
-#### Communication stack for Ethernet and TCP/IP
-- Requirement Analysis : 1y
-- Software integration : 2y
 
-
-### Company P
+### Company P (2009 ~ 2014)
 
 #### Windows desktop application
 - Team management : 2y
