@@ -32,27 +32,41 @@ This is `sngm45`'s personal page.
 
 ### Programming Language
 - C
+  - 10y
 - C++
-- Python
+  - 5y
+  - CMake
+  - Google Test Framework
+- Python 2 & 3
+  - 5y
 - VBA
+  - 5y
 - batch
+  - 10y
+- shell
+  - 1y
 
 ### Tech Area
-- Automotive Software
+- GUI
+  - OpenGL
+- Embedded System
   - RTOS
+- Automotive Software
   - AUTOSAR
   - Communication & network
-- Embedded Software
 - Raspberry Pi
 
 
-### Platform
+### Platform & Tools
 - Linux
-- Windows
+  - Ubuntu
+  - Ubuntu MATE
+  - Volumio
 
-### Tools
-- CMake
-- Google Test Framework
+- Windows
+  - Cygwin & MinGW
+  - VS code
+  - eclipse
 
 - Scapy
 - Wireshark
@@ -62,8 +76,40 @@ This is `sngm45`'s personal page.
 - Jenkins
 
 - Markdown
+- PlantUML
 - Scrapbox
 
-- eclipse
-- VS code
+
+
+## Job history
+
+### Company E
+
+#### GUI of car navigation system
+- Requirement Analysis : 1y
+- Software development : 1y
+
+#### Core library of car navigation system
+- Software development : 1y
+
+#### AUTOSAR integration
+- Software development : 3y
+
+#### Test automation with Python and Jenkins
+- Test design & scripting : 2y
+
+#### Communication stack for Ethernet and TCP/IP
+- Requirement Analysis : 1y
+- Software integration : 2y
+
+
+### Company P
+
+#### Windows desktop application
+- Team management : 2y
+
+#### GUI of car navigation system
+- Requirement Analysis : 1y
+- Software development : 4y
+
 
