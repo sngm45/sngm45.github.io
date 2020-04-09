@@ -3,44 +3,52 @@ This is `sngm45`'s personal page.
 
 ## Personal Data
 
-| Account | @ | URL |
-|---------|--|----|
-| Twitter | sngm45 | https://twitter.com/sngm45 |
-| GitHub | sngm45 | https://github.com/sngm45 |
-| Gmail | - | sng.ngmr@gmail.com |
+| Account | ID |
+|---------|---|
+| Twitter | [sngm45](https://twitter.com/sngm45) |
+| GitHub | [sngm45](https://github.com/sngm45) |
+| Gmail | [sng.ngmr@gmail.com](sng.ngmr@gmail.com) |
+
+
+## Job experience
+- Sofeware Development
+  - GUI of car navigation system
+    - Requirement Analysis : 1y
+    - Software development : 4y
+  - Core library of car navigation system
+    - Software development : 1y
+  - Windows desktop application
+    - Team management : 2y
+  - AUTOSAR
+    - Software integration : 3y
+  - Test automation with Python and Jenkins
+    - Test design & scripting : 2y
+  - Communication stack for Ethernet and TCP/IP
+    - Requirement Analysis : 1y
+    - Software integration : 2y
 
 
 ## Skill
-- Sofeware Development
-- Requirement Analysis
-- 要件定義
-- Basic Design
-- Detailed Design
-- Test Design
-- Test Scripting
 
 ### Programming Language
 - C
 - C++
 - Python
-- shell script
 - VBA
 - batch
 
 ### Tech Area
 - Automotive Software
+  - RTOS
   - AUTOSAR
+  - Communication & network
 - Embedded Software
-  - Raspberry Pi
-- Networking
-  - Ethernet
-  - VLAN
-  - TCP/IP
+- Raspberry Pi
 
 
 ### Platform
-- Windows
 - Linux
+- Windows
 
 ### Tools
 - CMake
@@ -58,13 +66,4 @@ This is `sngm45`'s personal page.
 
 - eclipse
 - VS code
-
-
-## Job history
-- Software develpment for GUI of car navigation system
-- Software develpment for Core library of car navigation system
-- Software develpment for Windows desktop application
-- Software integration for AUTOSAR
-- Test automation with Python and Jenkins
-- Software integration  for Ethernet and TCP/IP
 
